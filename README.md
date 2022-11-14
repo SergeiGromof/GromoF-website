@@ -1,4 +1,4 @@
 # Portfolio 
 
-[https://sergeigromof.github.io/GromoF-website/][Произвольный регистронезависимый текст]
+Перейти на сайт >> [https://sergeigromof.github.io/GromoF-website/]
 
