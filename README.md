@@ -1,4 +1,4 @@
 # Portfolio 
 
-Перейти на сайт >> [https://sergeigromof.github.io/GromoF-website/]
+Перейти на сайт >> [Обычная ссылка в строке](https://www.google.com)
 
