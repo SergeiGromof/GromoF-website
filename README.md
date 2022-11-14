@@ -1,4 +1,4 @@
 # Portfolio 
 
-Перейти на сайт >> [Обычная ссылка в строке](https://www.google.com)
+Перейти на >> [Сайт](https://www.google.com)
 
